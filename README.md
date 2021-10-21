@@ -5,7 +5,15 @@ Projeto para aperfeiçoamento dos conhecimentos em GIT e GITHUB.
 
 ## Tecnologias
 
-### HTML / CSS / JS /  BOOTSTRAP / GIT 
+### [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+
+### [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+
+### [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+
+### [BOOTSTRAP ](https://getbootstrap.com/)
+
+### [GIT ](https://git-scm.com/)
 
 
 
